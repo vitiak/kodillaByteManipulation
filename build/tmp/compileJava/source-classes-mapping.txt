@@ -1,0 +1,10 @@
+com/kodilla/bytecode/reflection/Book.java
+ com.kodilla.bytecode.reflection.Book
+com/kodilla/bytecode/reflection/ReflectionTest.java
+ com.kodilla.bytecode.reflection.ReflectionTest
+com/kodilla/bytecode/reflection/ReflectiontestPrivate.java
+ com.kodilla.bytecode.reflection.ReflectiontestPrivate
+com/kodilla/bytecode/reflection/Student.java
+ com.kodilla.bytecode.reflection.Student
+com/kodilla/bytecode/reflection/ReflectionStudentTest.java
+ com.kodilla.bytecode.reflection.ReflectionStudentTest
